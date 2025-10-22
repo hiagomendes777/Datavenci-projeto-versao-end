@@ -1,0 +1,2 @@
+O Datavenci é um sistema web desenvolvido em PHP, com MySQL e HTML/CSS/JavaScript, criado para conectar mercados e restaurantes locais de forma prática e eficiente.
+O sistema tem como objetivo facilitar o gerenciamento de produtos perecíveis, permitindo que mercados anunciem produtos próximos do vencimento e que restaurantes possam adquiri-los a preços reduzidos, promovendo sustentabilidade e redução de desperdícios.
